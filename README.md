@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaorsBetser
-- 👀 I’m interested in Python, Web, Cybersecurity and all in between
+- 👀 I’m interested in Python, Web, Rust and all in between
 - 🌱 I’m currently learning Computer Science, so EVERYTHING!
 - 💞️ I’m looking to collaborate on Small Pyton open source libraries i can contribute to
 - 📫 How to reach me Through GitHub is a good option
